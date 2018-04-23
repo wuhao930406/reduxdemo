@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: baseline;
+}
+
+.nav{
+  padding: 24px;
+  width: 155px;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
